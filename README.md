@@ -20,6 +20,14 @@ strong_limit.py -- contains code to construct the strong limit theory used by pr
 plot.py -- contains code to plot figures in the paper and supplement.
 ```
 
+The following real world network data file is included:
+```
+Krackhardt-High-Tech_Multiplex_Social:
+	The multiplex social network consists of 3 kinds of relationships (Advice, Friendship and "Reports to") between managers of a high-tech company. In our paper, we only consider Advice layer.
+	There are 21 nodes in each layer, labelled with integer ID between 1 and 21, with 312 connections.
+	The multiplex is directed and unweighted, stored as edges list in the edges file.
+```
+
 ### Reference
   [1] Taylor, D., Myers, S. A., Clauset, A., Porter, M. A., & Mucha, P. J. (2017). Eigenvector-based centrality measures for temporal networks. Multiscale Modeling & Simulation, 15(1), 537-574.
   
