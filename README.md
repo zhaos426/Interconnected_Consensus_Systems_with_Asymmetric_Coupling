@@ -5,10 +5,11 @@ We provide here code to accompany paper: Asymmetric Coupling of Directed Network
 The following Jupyter notebooks are included:
 ```
 demo.ipny -- simple demo code to reproduce the findings in the paper.
-figure_1_and_2.ipynb -- contains code to reproduce figs 1 and 2 in the paper.
-figure_3_and_4.ipynb -- contains code to reproduce figs 3 and 4 in the paper.	
+figure_1.ipynb -- contains code to reproduce fig 1 in the paper.
+figure_2.ipynb -- contains code to reproduce fig 2 in the paper.
+figure_3.ipynb -- contains code to reproduce fig 3 in the paper.	
 supplement_fig_1.ipynb -- contains code to illustrate how the non-robust optima arises due to a bifurcation in which two eigenvalues collide to create a complex pair of eigenvalues.
-supplement_fig_2.ipynb -- contains code to visualize the social network in the paper.
+supplement_fig_2.ipynb -- contains code to show diverse effects of coupling strength.
 ```
 
 The following python files are included:
