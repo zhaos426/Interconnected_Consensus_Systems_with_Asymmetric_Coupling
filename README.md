@@ -21,7 +21,7 @@ strong_limit.py -- contains code to construct the strong limit theory used by pr
 plot.py -- contains code to plot figures in the paper and supplement.
 ```
 
-The following real world network data file is included:
+The following real world network data file is downloaded from[5] and included:
 ```
 Krackhardt-High-Tech_Multiplex_Social:
 	The multiplex social network consists of 3 kinds of relationships (Advice, Friendship and "Reports to") between managers of a high-tech company. In our paper, we only consider Advice layer.
@@ -37,3 +37,5 @@ Krackhardt-High-Tech_Multiplex_Social:
   [3] Tejedor, A., Longjas, A., Foufoula-Georgiou, E., Georgiou, T. T., & Moreno, Y. (2018). Diffusion dynamics and optimal coupling in multiplex networks with directed layers. Physical Review X, 8(3), 031071.
   
   [4] D. Krackhardt, Social Networks9, 109 (1987).
+  
+  [5]  M. Domenico, “Datasets released for reproducibility; available at https://manliodedomenico.com/data.php ”.
